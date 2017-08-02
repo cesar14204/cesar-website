@@ -1,1 +1,25 @@
-h1{color: red;}
+body {
+	background: #3c5aa6;
+	font-family: 'VT323', monospace;
+}
+
+h1, h2, h3, h4, h5, p, a, button {
+	font-family: 'VT323', monospace;
+}
+
+img#logo {
+	width: 80px;
+	margin-top: -12px;
+}
+
+.thumbnail {
+	text-align: center;
+}
+
+.thumbnail h3 {
+	color: #ffcb05;
+}
+
+.thumbnail p {
+	color: red;
+}
